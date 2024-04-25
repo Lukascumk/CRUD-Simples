@@ -1,0 +1,31 @@
+C:\Users\lukas\source\repos\Projeto Web\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\lukas\source\repos\Projeto Web\bin\Debug\net8.0\appsettings.json
+C:\Users\lukas\source\repos\Projeto Web\bin\Debug\net8.0\Projeto Web.staticwebassets.runtime.json
+C:\Users\lukas\source\repos\Projeto Web\bin\Debug\net8.0\Projeto Web.exe
+C:\Users\lukas\source\repos\Projeto Web\bin\Debug\net8.0\Projeto Web.deps.json
+C:\Users\lukas\source\repos\Projeto Web\bin\Debug\net8.0\Projeto Web.runtimeconfig.json
+C:\Users\lukas\source\repos\Projeto Web\bin\Debug\net8.0\Projeto Web.dll
+C:\Users\lukas\source\repos\Projeto Web\bin\Debug\net8.0\Projeto Web.pdb
+C:\Users\lukas\source\repos\Projeto Web\obj\Debug\net8.0\Projeto Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\source\repos\Projeto Web\obj\Debug\net8.0\Projeto Web.AssemblyInfoInputs.cache
+C:\Users\lukas\source\repos\Projeto Web\obj\Debug\net8.0\Projeto Web.AssemblyInfo.cs
+C:\Users\lukas\source\repos\Projeto Web\obj\Debug\net8.0\Projeto Web.csproj.CoreCompileInputs.cache
+C:\Users\lukas\source\repos\Projeto Web\obj\Debug\net8.0\Projeto Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lukas\source\repos\Projeto Web\obj\Debug\net8.0\Projeto Web.RazorAssemblyInfo.cache
+C:\Users\lukas\source\repos\Projeto Web\obj\Debug\net8.0\Projeto Web.RazorAssemblyInfo.cs
+C:\Users\lukas\source\repos\Projeto Web\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\lukas\source\repos\Projeto Web\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\lukas\source\repos\Projeto Web\obj\Debug\net8.0\staticwebassets\msbuild.Projeto Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lukas\source\repos\Projeto Web\obj\Debug\net8.0\staticwebassets\msbuild.build.Projeto Web.props
+C:\Users\lukas\source\repos\Projeto Web\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Projeto Web.props
+C:\Users\lukas\source\repos\Projeto Web\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Projeto Web.props
+C:\Users\lukas\source\repos\Projeto Web\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\lukas\source\repos\Projeto Web\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\lukas\source\repos\Projeto Web\obj\Debug\net8.0\scopedcss\bundle\Projeto Web.styles.css
+C:\Users\lukas\source\repos\Projeto Web\obj\Debug\net8.0\scopedcss\projectbundle\Projeto Web.bundle.scp.css
+C:\Users\lukas\source\repos\Projeto Web\obj\Debug\net8.0\Projeto Web.dll
+C:\Users\lukas\source\repos\Projeto Web\obj\Debug\net8.0\refint\Projeto Web.dll
+C:\Users\lukas\source\repos\Projeto Web\obj\Debug\net8.0\Projeto Web.pdb
+C:\Users\lukas\source\repos\Projeto Web\obj\Debug\net8.0\Projeto Web.genruntimeconfig.cache
+C:\Users\lukas\source\repos\Projeto Web\obj\Debug\net8.0\ref\Projeto Web.dll
+C:\Users\lukas\source\repos\Projeto Web\obj\Debug\net8.0\Projeto Web.sourcelink.json

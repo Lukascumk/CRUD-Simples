@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Crud Aspdotnet MVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2aa5ce667b93ee7a50aa784d5b28d60301790a88")]
 [assembly: System.Reflection.AssemblyProductAttribute("Crud Aspdotnet MVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Crud Aspdotnet MVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

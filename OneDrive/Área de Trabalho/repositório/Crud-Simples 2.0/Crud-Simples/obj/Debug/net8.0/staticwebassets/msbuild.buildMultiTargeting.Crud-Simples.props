@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Crud-Simples.props" />
+</Project>

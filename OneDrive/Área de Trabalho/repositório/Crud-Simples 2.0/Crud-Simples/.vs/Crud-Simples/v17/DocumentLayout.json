@@ -1,0 +1,159 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lukas\\OneDrive\\\u00C1rea de Trabalho\\reposit\u00F3rio\\Crud-Simples 2.0\\Crud-Simples\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1222251A-CEAD-4845-BF74-07B4A6355D19}|Crud-Simples.csproj|c:\\users\\lukas\\onedrive\\\u00E1rea de trabalho\\reposit\u00F3rio\\crud-simples 2.0\\crud-simples\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1222251A-CEAD-4845-BF74-07B4A6355D19}|Crud-Simples.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1222251A-CEAD-4845-BF74-07B4A6355D19}|Crud-Simples.csproj|c:\\users\\lukas\\onedrive\\\u00E1rea de trabalho\\reposit\u00F3rio\\crud-simples 2.0\\crud-simples\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1222251A-CEAD-4845-BF74-07B4A6355D19}|Crud-Simples.csproj|solutionrelative:controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1222251A-CEAD-4845-BF74-07B4A6355D19}|Crud-Simples.csproj|c:\\users\\lukas\\onedrive\\\u00E1rea de trabalho\\reposit\u00F3rio\\crud-simples 2.0\\crud-simples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1222251A-CEAD-4845-BF74-07B4A6355D19}|Crud-Simples.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1222251A-CEAD-4845-BF74-07B4A6355D19}|Crud-Simples.csproj|c:\\users\\lukas\\onedrive\\\u00E1rea de trabalho\\reposit\u00F3rio\\crud-simples 2.0\\crud-simples\\data\\contexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1222251A-CEAD-4845-BF74-07B4A6355D19}|Crud-Simples.csproj|solutionrelative:data\\contexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1222251A-CEAD-4845-BF74-07B4A6355D19}|Crud-Simples.csproj|c:\\users\\lukas\\onedrive\\\u00E1rea de trabalho\\reposit\u00F3rio\\crud-simples 2.0\\crud-simples\\crud-simples.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1222251A-CEAD-4845-BF74-07B4A6355D19}|Crud-Simples.csproj|solutionrelative:crud-simples.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1222251A-CEAD-4845-BF74-07B4A6355D19}|Crud-Simples.csproj|c:\\users\\lukas\\onedrive\\\u00E1rea de trabalho\\reposit\u00F3rio\\crud-simples 2.0\\crud-simples\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1222251A-CEAD-4845-BF74-07B4A6355D19}|Crud-Simples.csproj|solutionrelative:models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1222251A-CEAD-4845-BF74-07B4A6355D19}|Crud-Simples.csproj|c:\\users\\lukas\\onedrive\\\u00E1rea de trabalho\\reposit\u00F3rio\\crud-simples 2.0\\crud-simples\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1222251A-CEAD-4845-BF74-07B4A6355D19}|Crud-Simples.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\lukas\\OneDrive\\\u00C1rea de Trabalho\\reposit\u00F3rio\\Crud-Simples 2.0\\Crud-Simples\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\lukas\\OneDrive\\\u00C1rea de Trabalho\\reposit\u00F3rio\\Crud-Simples 2.0\\Crud-Simples\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "Controllers\\UsuariosController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T18:47:02.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Crud-Simples",
+              "DocumentMoniker": "C:\\Users\\lukas\\OneDrive\\\u00C1rea de Trabalho\\reposit\u00F3rio\\Crud-Simples 2.0\\Crud-Simples\\Crud-Simples.csproj",
+              "RelativeDocumentMoniker": "Crud-Simples.csproj",
+              "ToolTip": "C:\\Users\\lukas\\OneDrive\\\u00C1rea de Trabalho\\reposit\u00F3rio\\Crud-Simples 2.0\\Crud-Simples\\Crud-Simples.csproj",
+              "RelativeToolTip": "Crud-Simples.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-16T18:29:34.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\lukas\\OneDrive\\\u00C1rea de Trabalho\\reposit\u00F3rio\\Crud-Simples 2.0\\Crud-Simples\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\lukas\\OneDrive\\\u00C1rea de Trabalho\\reposit\u00F3rio\\Crud-Simples 2.0\\Crud-Simples\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T17:06:59.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Contexto.cs",
+              "DocumentMoniker": "C:\\Users\\lukas\\OneDrive\\\u00C1rea de Trabalho\\reposit\u00F3rio\\Crud-Simples 2.0\\Crud-Simples\\Data\\Contexto.cs",
+              "RelativeDocumentMoniker": "Data\\Contexto.cs",
+              "ToolTip": "C:\\Users\\lukas\\OneDrive\\\u00C1rea de Trabalho\\reposit\u00F3rio\\Crud-Simples 2.0\\Crud-Simples\\Data\\Contexto.cs",
+              "RelativeToolTip": "Data\\Contexto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T16:23:33.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\lukas\\OneDrive\\\u00C1rea de Trabalho\\reposit\u00F3rio\\Crud-Simples 2.0\\Crud-Simples\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\lukas\\OneDrive\\\u00C1rea de Trabalho\\reposit\u00F3rio\\Crud-Simples 2.0\\Crud-Simples\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T16:23:30.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lukas\\OneDrive\\\u00C1rea de Trabalho\\reposit\u00F3rio\\Crud-Simples 2.0\\Crud-Simples\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\lukas\\OneDrive\\\u00C1rea de Trabalho\\reposit\u00F3rio\\Crud-Simples 2.0\\Crud-Simples\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T16:14:01.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\lukas\\OneDrive\\\u00C1rea de Trabalho\\reposit\u00F3rio\\Crud-Simples 2.0\\Crud-Simples\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\lukas\\OneDrive\\\u00C1rea de Trabalho\\reposit\u00F3rio\\Crud-Simples 2.0\\Crud-Simples\\Models\\Usuario.cs",
+              "RelativeToolTip": "Models\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T16:13:41.996Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
